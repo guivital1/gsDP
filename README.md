@@ -1,4 +1,4 @@
-# ★ STARage — Smart Space Storage
+#  STARage — Smart Space Storage
 
 > Armazém Inteligente para Missões Espaciais
 
@@ -82,7 +82,7 @@ python main.py
 
 ---
 
-## 💻 Como rodar o Dashboard
+##  Como rodar o Dashboard
 
 ```bash
 npm install
