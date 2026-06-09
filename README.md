@@ -124,3 +124,12 @@ O dashboard usa a **API do Claude (Anthropic)** para processar comandos em lingu
 **Dashboard:** React 18, Vite, Claude API (Anthropic)
 
 
+Autores
+
+| Nome | GitHub |
+|---|---|
+|
+| Erik Kaiyu  559273
+| Guilherme Vital 560073
+| Kayque Carvalho 561189
+| Lucas Guerreiro 560359
