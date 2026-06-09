@@ -126,7 +126,7 @@ O dashboard usa a **API do Claude (Anthropic)** para processar comandos em lingu
 
 Autores
 
-| Nome | GitHub |
+| Nome |
 |---|---|
 |
 | Erik Kaiyu  559273
